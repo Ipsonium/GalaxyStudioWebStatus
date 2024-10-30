@@ -1,0 +1,36 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+    color : white;
+}
+
+a {
+    text-decoration: black;
+    color: white;
+}
+
+a.RetourAGDTUD {
+    display: flex;
+    margin: 15px;
+}
+
+button.BRetourAGDTUD {
+    height: 40px;
+    width: auto;
+    cursor: pointer;
+    border-radius: 5px;
+    border-style: none;
+}
+
+hr {
+    color: #737373;
+}
+
+div.navbar {
+    background-color: #004AAD;
+    margin: 0px;
+    height: 55px;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
