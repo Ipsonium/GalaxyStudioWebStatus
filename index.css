@@ -28,11 +28,12 @@ hr {
 
 div.navbar {
     background-color: #004AAD;
-    margin: 0px;
+    margin: 0%;
     height: 55px;
     display: flex;
     align-items: center;
     position: relative;
+    border-radius: 5px;
 }
 
 h5.ipsonium {
